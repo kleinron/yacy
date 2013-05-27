@@ -127,7 +127,7 @@ public class NewsPool {
     private static final String CATEGORY_BLACKLIST_VOTE_DEL = "blckldvt";
 
     /* ------------------------------------------------------------------------
-     * FLIE-SHARE related CATEGORIES
+     * FILE-SHARE related CATEGORIES
      * ------------------------------------------------------------------------ */
     /**
      * a file was added to the file share
